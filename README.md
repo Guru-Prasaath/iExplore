@@ -1,3 +1,4 @@
 # My Portfolio Website
-![image](https://github.com/Guru-Prasaath/iExplore/assets/144526808/203c0942-2bdd-4fc8-a464-6997cfdf72e0)
+![image](https://github.com/Guru-Prasaath/iExplore/assets/144526808/09991536-acdc-4025-ae41-6dfad4dca189)
+
 
